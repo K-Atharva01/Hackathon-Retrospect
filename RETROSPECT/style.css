@@ -33,8 +33,7 @@ body{
     0% {
       opacity: 0;
       transform: rotateX(0deg);
-    }
-  
+    }  
     100% {
       opacity: 1;
       transform: rotateX(720deg);

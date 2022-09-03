@@ -62,3 +62,11 @@ a
 .info{
     margin-top: 5%;
 }
+
+.location
+{
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+}
