@@ -10,9 +10,9 @@ Team -
 Member 1 - 
 Atharva Khanvilkar
 D6AD - 33
-2021.atharva.khanvilkar@ves.ac.in
+Email - 2021.atharva.khanvilkar@ves.ac.in
 
 Member 2 -
 Atharva Sardal
 D6AD - 55
-2021.atharva.sardal@ves.ac.in
+Email - 2021.atharva.sardal@ves.ac.in
